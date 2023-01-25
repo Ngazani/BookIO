@@ -1,0 +1,100 @@
+.start{
+	width: 400px;
+	height: 700px;
+	text-align: center;
+	background-color:blue;
+	opacity: 0.5;
+	color: white;
+}
+.create{
+	width: 400px;
+	height: 700px;
+	text-align: center;
+	background-color:brown;
+	opacity: 0.5;
+	color: white;
+}
+
+.user{
+	width: 500px;
+	height: 1000px;
+	text-align: center;
+	background-color:blue;
+	opacity: 0.5;
+	color: white;
+}
+
+.people{
+	width: 500px;
+	height: 1000px;
+	text-align: center;
+	background-color:pink;
+	opacity: 0.5;
+	color: white;
+}
+.back
+{
+	width: 500px;
+	height: 1000px;
+	text-align: center;
+	background-color:pink;
+	opacity: 0.5;
+	color: white;
+}
+.Reg{
+	width: 500px;
+	height: 1000px;
+	text-align: center;
+	background-color: orange;
+	opacity: 0.5;
+	color: white;
+}
+
+
+.vol{
+	width: 500px;
+	height: 1000px;
+	text-align: center;
+	color: white;
+}
+.sell{
+	width: 500px;
+	height: 400px;
+	text-align: left;
+	background-color:white;
+	opacity: 0.5;
+	color: black;
+}
+.details{
+	color:white;
+}
+.can{
+	width: 500px;
+	height: 500px;
+	text-align: center;
+	background-color:white;
+	opacity: 0.5;
+}
+
+.admin{
+	width: 500px;
+	height: 1000px;
+	text-align: center;
+	background-color: white;
+	opacity: 0.5;
+	color: black;
+}
+
+.dashBorad{
+	text-align: center;
+	color:white;
+	text-size:26;
+}
+.welAdmin{
+	width: 400px;
+	height: 700px;
+	text-align: center;
+	background:red;
+	opacity: 0.5;
+	color: white;
+}

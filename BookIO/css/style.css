@@ -1,0 +1,62 @@
+
+
+.body {background-image: url('./images/background');
+no-repeat;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size: 100% 100%;
+}
+
+.nameCoupon {
+	height: 100;
+	weight: 50;
+	
+}
+.h1 {
+	 color: white;
+	 height: 100;
+	 display: table-cell;
+	 vertical-align:;
+	 text-align:center;
+	 font-size: 36px;
+     font-weight:200;}
+	 .regform {
+	 color: white;
+	 height: 100;
+	 display: table-cell;
+	 vertical-align:;
+	 text-align:center;
+	 font-size: 36px;
+     font-weight:200;}
+	 
+.form {
+	 color: white;
+	 height: 100;
+	 display: table-cell;
+	 vertical-align:;
+	 text-align:center;
+	 font-size: 36px;
+     font-weight:200;}
+	 
+.h2 {
+	 color: white;
+	 height: 100;
+	 display: table-cell;
+	 vertical-align: left;
+	 font-family: '';
+	 text-align:left-side;
+	 font-size: 36px;
+     font-weight:200;}
+.navbar-brand { color: white;
+				height: 100;
+				font-size:38px;}
+				
+				
+				<style>
+body{background-image: url('./images/background');
+no-repeat;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size: 100% 100%;
+}</style>
+
